@@ -4,12 +4,17 @@ This is a simple and responsive **Pricing Plan** web page built using **HTML5** 
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live Pricing Page](https://Murtajiz-Abbas.github.io/miniProject-1/)
+
+
 ## 📸 Screenshots
 
 ![Pricing Page Screenshot](./screenshots/pricing-page-preview.png)
-![VScode-Screenshot](./screenshots/vscode-screenshot1.png)
-![VScode-Screenshot](./screenshots/vscode-screenshot2.png)
-![VScode-Screenshot](./screenshots/vscode-screenshot3.png)
+![VScode-code1](./screenshots/vscode1.png)
+![VScode-code2](./screenshots/vscode2.png)
+![VScode-code3](./screenshots/vscode3.png)
 
 ---
 
@@ -42,15 +47,13 @@ This is a simple and responsive **Pricing Plan** web page built using **HTML5** 
 ## 🧑‍💻 Author
 
 **Murtajiz Abbas Bukhari**  
-📍 Student of BS Computer Science – Abbottabad University of Science & Technology  
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/murtajiz-abbas-bukhari-0114aa376/)  
-📫 Email: [syedmurtajiz8614@gmail.com]
+📍 BSCS student – Abbottabad University of Science & Technology  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/murtajiz-abbas-bukhari-0114aa376/)  | 📫 Email: [syedmurtajiz8614@gmail.com]
 
 ---
 
-## 📌 Note
-
-This is a mini frontend UI project — created as part of my **MERN Stack learning journey** to practice frontend layouts using Bootstrap.
+**About**  
+A mini frontend UI project developed during my MERN Stack learning journey to strengthen fundamental skills in HTML and Bootstrap layout design.
 
 ---
 
