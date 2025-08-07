@@ -1,62 +1,64 @@
-# 💳 Pricing Plan Page – HTML & Bootstrap 5
+# 💳 Pricing Plan UI – Mini Frontend Project
 
-This is a simple and responsive **Pricing Plan** web page built using **HTML5** and **Bootstrap 5**. It features three pricing tiers: **Free**, **Pro**, and **Enterprise** — each displayed as a card with plan details.
+This is a simple and clean **Pricing Plan webpage** built using **HTML5** and **Bootstrap 5**. It displays three pricing cards (Free, Pro, Enterprise) and is fully responsive across all devices. The project was created as part of my frontend development practice during my MERN Stack learning journey.
 
 ---
 
-## 🔗 Live Demo
+## 🚀 Live Demo
 
-👉 [Click here to view the live Pricing Page](https://Murtajiz-Abbas.github.io/miniProject-1/)
+👉 [View Project on GitHub Pages](https://Murtajiz-Abbas.github.io/miniProject-1/)
 
+---
 
 ## 📸 Screenshots
 
-![Pricing Page Screenshot](./screenshots/pricing-page-preview.png)
-![VScode-code1](./screenshots/vscode1.png)
-![VScode-code2](./screenshots/vscode2.png)
-![VScode-code3](./screenshots/vscode3.png)
+### 💻 UI Preview
+![Pricing Page Screenshot](screenshots/pricing-page-preview.png)
+
+### 🧑‍💻 VS Code Editor
+![VS Code Screenshot](screenshots/vscode1.png)
 
 ---
 
-## 🔧 Technologies Used
+## 🔑 Features
 
-- **HTML5**
-- **Bootstrap 5 (via CDN)**
-
----
-
-## 💡 Features
-
-- 📱 Responsive layout using Bootstrap Grid System  
-- 🃏 Card-based pricing plans (Free, Pro, Enterprise)  
-- 🎯 Clean UI with buttons, headers, and feature lists  
-- ✉️ Different support and storage levels per plan  
+- Responsive layout using Bootstrap Grid System
+- Card-based pricing plans
+- Custom buttons and icons
+- Clean and simple design
 
 ---
 
-## 🚀 How to Use
+## 🛠️ Technologies Used
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Murtajiz-Abbas/miniProject-1.git
-   ```
-2. Open the `index.html` file in any modern web browser.
+- HTML5  
+- Bootstrap 5 (via CDN)  
+- CSS (minimal, inline/custom)
 
 ---
 
-## 🧑‍💻 Author
+## 📂 How to Run Locally
+
+```bash
+git clone https://github.com/Murtajiz-Abbas/miniProject-1.git
+cd miniProject-1
+open index.html in your browser
+```
+
+Or simply double-click the `index.html` file after downloading.
+
+---
+
+## 👨‍💻 Author
 
 **Murtajiz Abbas Bukhari**  
-📍 BSCS student – Abbottabad University of Science & Technology  
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/murtajiz-abbas-bukhari-0114aa376/)  | 📫 Email: [syedmurtajiz8614@gmail.com]
+📚 BS Computer Science (2022–2026)  
+🏫 Abbottabad University of Science & Technology (AUST)  
+📧 syedmurtajiz8614@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/murtajiz-abbas-bukhari-0114aa376/)
 
 ---
 
-**About**  
-A mini frontend UI project developed during my MERN Stack learning journey to strengthen fundamental skills in HTML and Bootstrap layout design.
+## ⚖️ License
 
----
-
-## 📜 License
-
-This project is open-source and free to use for educational and personal purposes.
+This project is open-source and free to use for educational, personal, or portfolio purposes.
